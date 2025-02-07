@@ -79,6 +79,3 @@ Ensure the following libraries are installed:
 2. **Pitch Detection:** The pitch detection algorithm may not be 100% accurate, leading to incorrect note detection. The Real-time Pitch Correction feature is disabled to prevent incorrect note detection and the dead loop issue.
 
 ---
-=======
-# xylophone_nao
->>>>>>> c0e91d074ed90cb23d4bf9ed014be27b866bb5cf
