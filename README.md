@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Playing the Xylophone with NAO
 Humanoid Robotic System -- Final Project
 Group C: Zhiyu Wang, Yijia Qian, Yuan Cao
