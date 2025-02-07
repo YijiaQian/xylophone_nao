@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Playing the Xylophone with NAO
 Humanoid Robotic System -- Final Project
 Group C: Zhiyu Wang, Yijia Qian, Yuan Cao
@@ -78,5 +79,6 @@ Ensure the following libraries are installed:
 2. **Pitch Detection:** The pitch detection algorithm may not be 100% accurate, leading to incorrect note detection. The Real-time Pitch Correction feature is disabled to prevent incorrect note detection and the dead loop issue.
 
 ---
-
-For any further inquiries or troubleshooting, please refer to the authors E-Mail: zhiyu.wang@tum.de
+=======
+# xylophone_nao
+>>>>>>> c0e91d074ed90cb23d4bf9ed014be27b866bb5cf
